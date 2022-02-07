@@ -1,4 +1,5 @@
-this is my second_file_on_github.c.txt
+line 2 master
 line 1 on test_remote branch
 line 2 on test_remote branch
 line 3 on test_remote branch after first push
+
